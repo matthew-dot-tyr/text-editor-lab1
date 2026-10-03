@@ -1,0 +1,51 @@
+{
+    "documents": [
+        {
+            "title": "Конспект по Python",
+            "author": {
+                "name": "Анна",
+                "email": "anna@mail.ru"
+            },
+            "elements": [
+                {
+                    "type": "heading",
+                    "level": 1,
+                    "text": "Классы и объекты",
+                    "font": {
+                        "name": "Arial",
+                        "size": 18,
+                        "bold": true
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "ООП опирается на классы и объекты.",
+                    "font": {
+                        "name": "Arial",
+                        "size": 12,
+                        "bold": false
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Исключения обрабатываются через try/except.",
+                    "font": {
+                        "name": "Arial",
+                        "size": 12,
+                        "bold": false
+                    }
+                }
+            ],
+            "comments": [
+                {
+                    "author": {
+                        "name": "Анна",
+                        "email": "anna@mail.ru"
+                    },
+                    "text": "Добавить пример кода",
+                    "element_index": 1
+                }
+            ]
+        }
+    ]
+}
